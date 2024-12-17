@@ -2,8 +2,11 @@
 This repository contains a Python notebook created as part of a mentorship program within the Department of Statistics and Operations Research, Aligarh Muslim University (AMU). The project was developed by Team United, consisting of the following members:
 
 Abdul Rahman
-Me Harish Saifi
+
+Harish Saifi(Myself)
+
 Md Ajmat
+
 The primary goal of this project was to analyze and predict bike rental demand using a dataset, leveraging statistical and machine learning techniques.
 
 # Project Overview
