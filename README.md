@@ -92,10 +92,10 @@ Explore additional external data sources to enrich the dataset.
 Deploy the model as a web application for real-time predictions.
 Team Members
 
-Abdul Rahman
+[Abdul Rahman](https://www.linkedin.com/in/iam-abdul-rahman/)
 
-Harish Saifi
+[Harish Saifi](https://www.linkedin.com/in/harish-saifi-02734913a/)
 
-Md Ajmat
+[Md Ajmat](https://www.linkedin.com/in/mohammad-ajmat-6153a2207/)
 
 For any questions or feedback, feel free to reach out to us.
